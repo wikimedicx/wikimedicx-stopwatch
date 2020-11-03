@@ -1,0 +1,48 @@
+
+body {
+    background-color: #002D62;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    width: 800px;
+    margin: 100px auto;
+}
+
+h2 {
+    font-size: 50px;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    cursor: pointer;
+    padding: 20px 40px;
+    margin: 0 10px;
+}
+
+button:hover {
+    background-color:   #fff;
+    color: #002D62;
+}
+
+footer {
+    text-align: center;
+}
+i {
+    margin: 40px;
+    cursor: pointer;
+    color: #a4a8ac;
+}
+
+i:hover {
+    color: #fff;
+}
